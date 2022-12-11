@@ -1,4 +1,4 @@
-# 내멋대로ㅎLG
+# 🏡 내멋대로ㅎLG
 
 <img width="1200" alt="스크린샷 2022-12-09 오후 3 38 06" src="https://user-images.githubusercontent.com/87795291/206884835-cf569480-2cce-4f78-9207-d206dc173c5f.png">
 
@@ -11,7 +11,7 @@ The platform, '내멋대로ㅎLG', can attract potential customers by maximizing
 <br>
 <br>
 
-## Group Member
+## 👨‍👨‍👧‍👧 Group Member
 
 |Name|Dept|E-mail| 
 |:---:|:---:|:---:| 
@@ -22,7 +22,15 @@ The platform, '내멋대로ㅎLG', can attract potential customers by maximizing
 
 <br>
 
-## Proposal
+## 🏃 Motivation
+
+According to the Korea Communications Commission, the customer ownership rate of digital TVs in 2021 was 94.9%, and according to the Korea Power Exchange, the number of refrigerators owned per household in 2019 was 1.01. These numbers show that home appliances are widespread nowadays. Without a doubt, home appliances are an indispensable part of our lives. According to the Korean Statistical Information Service, Korea's GNI has exceeded $30,000. As a result of this economic growth, living standards have improved as well. Therefore, consumer expectations for home appliances have also changed. In the past, home appliances used to be tools that solely performed the tasks that were assigned to them. For instance, the washing machine was simply used to do the laundry and wash clothes, the vacuum cleaner was simply used to vacuum dirt, and the television was simply used to display TV programs. However, people no longer want appliances to perform only simple functions. People hope that more convenient and innovative features will be used together in the future.<br>
+As the form of furniture becomes more diverse, the lifestyle of each household is also becoming more unique rather than having common characteristics. Some people want multiple home appliances to operate automatically at a certain time, some want to operate with a simple command, while others want home appliances to operate automatically according to their location or status. A common recommendation system and a manual system provided by a company cannot satisfy each individual's preferences and needs. Our service respects and accepts the uniqueness of individuals, allowing users to create their own home appliance operation manuals. The goal is to increase consumer convenience by linking devices beyond simple control through mobile applications. This will provide users with more convenience than directly operating the product, and will allow users to have a positive experience with smart homes and personalized systems.
+
+
+<br>
+
+## 💌 Proposal
 
 Paradoxically, it has become an era where individuality is as important as uniformity. Our team came up with a solution that meets the needs of both distinctiveness.
 
@@ -34,6 +42,8 @@ In conclusion, users will have an easier life if they use recommended routines a
 
 <br>
 
-## Demo
+## 🧩 Demo
 [Youtube](https://youtu.be/mpyknIORkZc)<br>
 [<img width="612" alt="스크린샷 2022-12-09 오후 4 04 26" src="https://user-images.githubusercontent.com/87795291/206885139-52b61389-2c9d-44f8-972e-9a4f588a40d8.png">](https://youtu.be/mpyknIORkZc)
+<br>
+<br>
