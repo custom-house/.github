@@ -25,6 +25,7 @@ The platform, '내멋대로ㅎLG', can attract potential customers by maximizing
 ## 🏃 Motivation
 
 According to the Korea Communications Commission, the customer ownership rate of digital TVs in 2021 was 94.9%, and according to the Korea Power Exchange, the number of refrigerators owned per household in 2019 was 1.01. These numbers show that home appliances are widespread nowadays. Without a doubt, home appliances are an indispensable part of our lives. According to the Korean Statistical Information Service, Korea's GNI has exceeded $30,000. As a result of this economic growth, living standards have improved as well. Therefore, consumer expectations for home appliances have also changed. In the past, home appliances used to be tools that solely performed the tasks that were assigned to them. For instance, the washing machine was simply used to do the laundry and wash clothes, the vacuum cleaner was simply used to vacuum dirt, and the television was simply used to display TV programs. However, people no longer want appliances to perform only simple functions. People hope that more convenient and innovative features will be used together in the future.<br>
+<br>
 As the form of furniture becomes more diverse, the lifestyle of each household is also becoming more unique rather than having common characteristics. Some people want multiple home appliances to operate automatically at a certain time, some want to operate with a simple command, while others want home appliances to operate automatically according to their location or status. A common recommendation system and a manual system provided by a company cannot satisfy each individual's preferences and needs. Our service respects and accepts the uniqueness of individuals, allowing users to create their own home appliance operation manuals. The goal is to increase consumer convenience by linking devices beyond simple control through mobile applications. This will provide users with more convenience than directly operating the product, and will allow users to have a positive experience with smart homes and personalized systems.
 
 
@@ -34,11 +35,11 @@ As the form of furniture becomes more diverse, the lifestyle of each household i
 
 Paradoxically, it has become an era where individuality is as important as uniformity. Our team came up with a solution that meets the needs of both distinctiveness.
 
-First, Custom House enables users to group individual home appliances according to their preference. This means that you can operate numerous grouped products in a single trigger. Using this application, users can design their own routines; For instance, washing machines and stylers can be paired up as a routine to accomplish the assigned task. 
+**First**, Custom House enables users to group individual home appliances according to their preference. This means that you can operate numerous grouped products in a single trigger. Using this application, users can design their own routines; For instance, washing machines and stylers can be paired up as a routine to accomplish the assigned task. 
 
-Second, AI technology has brought a drastic change into this world. Precisely analyzing and predicting data have always been strong traits of AI. Custom house will analyze age, gender, and household using scikit-learn which is a free machine learning Library for python to accurately recommend routines accordingly to their category. This service will find uniqueness from the immense dataset. 
+**Second**, AI technology has brought a drastic change into this world. Precisely analyzing and predicting data have always been strong traits of AI. Custom house will analyze age, gender, and household using scikit-learn which is a free machine learning Library for python to accurately recommend routines accordingly to their category. This service will find uniqueness from the immense dataset. 
 
-In conclusion, users will have an easier life if they use recommended routines and routines that initiate numerous home appliances. Additionally, users can accomplish tasks as simply and quickly as possible by using AI speakers.
+**In conclusion**, users will have an easier life if they use recommended routines and routines that initiate numerous home appliances. Additionally, users can accomplish tasks as simply and quickly as possible by using AI speakers.
 
 <br>
 
