@@ -44,7 +44,7 @@ Paradoxically, it has become an era where individuality is as important as unifo
 <br>
 
 ## 🧩 Demo
-[Youtube](https://youtu.be/mpyknIORkZc)<br>
-[<img width="612" alt="스크린샷 2022-12-09 오후 4 04 26" src="https://user-images.githubusercontent.com/87795291/206885139-52b61389-2c9d-44f8-972e-9a4f588a40d8.png">](https://youtu.be/mpyknIORkZc)
+[Youtube](https://youtu.be/ZyqQeLScdEI)<br>
+[<img width="612" alt="스크린샷 2022-12-09 오후 4 04 26" src="https://user-images.githubusercontent.com/87795291/206885139-52b61389-2c9d-44f8-972e-9a4f588a40d8.png">](https://youtu.be/ZyqQeLScdEI)
 <br>
 <br>
